@@ -6,11 +6,11 @@ Ce projet gère l'entièreté du tournoi Polysport : de la génération du plann
 
 Le système est découpé en 3 parties distinctes :
 
-1. **⚙️ Générateur de tournoi (Python)** : [Scheduler]([https://github.com/JulienRichoz/SMUF_Polysport_Scheduler](https://github.com/JulienRichoz/SMUF_Polysport/tree/main/scheduler))
+1. **⚙️ Générateur de tournoi (Python)** : [Scheduler](https://github.com/JulienRichoz/SMUF_Polysport/tree/main/scheduler)
    * *Rôle :* Génère la grille des matchs équilibrée en fonction du nombre d'équipes et de terrains.
 2. **🗄️ Database (Google Sheets)** : *[Lien privé vers le Google Sheet]*
    * *Rôle :* Base de données centrale. Contient les plannings, les équipes, le staff et les configurations.
-3. **📱 UI & Web App (Google Apps Script)** : [Google Apps Script]([https://github.com/JulienRichoz/SMUF_Polysport_appScript](https://github.com/JulienRichoz/SMUF_Polysport/tree/main/google-apps-script))
+3. **📱 UI & Web App (Google Apps Script)** : [Google Apps Script](https://github.com/JulienRichoz/SMUF_Polysport/tree/main/google-apps-script)
    * *Rôle :* L'application web finale (Frontend public + Frontend Staff sécurisé par PIN) qui lit les données du Google Sheet.
 
 ---
