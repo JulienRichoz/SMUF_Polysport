@@ -21,7 +21,7 @@ Au lieu des méthodes Python traditionnelles complexes, ce projet utilise **`uv`
 Une fois Gurobi et `uv` installés, ouvrez votre terminal (ou invite de commande) et naviguez jusqu'au dossier où vous avez téléchargé ce projet :
 
 ```bash
-cd chemin/vers/le/dossier/SMUF_Polysport
+cd chemin/vers/le/dossier/SMUF_Polysport/scheduler
 ```
 
 Ensuite, demandez à `uv` de préparer le projet et de télécharger les librairies mathématiques nécessaires (pandas, cvxpy, etc.) avec cette simple commande :
