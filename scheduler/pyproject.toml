@@ -1,0 +1,12 @@
+[project]
+name = "smuf-tournament-new"
+version = "0.1.0"
+description = "SMUF Polysport Games tournament scheduler"
+readme = "README.md"
+requires-python = ">=3.12, <3.13"
+dependencies = [
+    "cvxpy>=1.6.5",
+    "gurobipy>=12.0.2",
+    "numpy>=2.2.5",
+    "pandas>=3.0.2",
+]
