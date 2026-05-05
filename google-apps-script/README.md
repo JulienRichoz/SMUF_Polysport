@@ -28,7 +28,7 @@ Le cerveau de l'application :
 
 Cette application est intimement liée à une **Google Sheet privée**. 
 
-> **Note importante** : La base du planning (les horaires et les rencontres) est générée en amont par cet outil : [SMUF Polysport Scheduler](https://github.com/JulienRichoz/SMUF_Polysport_Scheduler.git).
+> **Note importante** : La base du planning (les horaires et les rencontres) est générée en amont par cet outil : [SMUF Polysport Scheduler]([https://github.com/JulienRichoz/SMUF_Polysport_Scheduler.git](https://github.com/JulienRichoz/SMUF_Polysport/tree/main/scheduler)).
 
 ### Structure de la Google Sheet
 Le mieux à faire est de demander la Google Sheet à l'auteur ou contacter un membre du comité SMUF-Polysport.
